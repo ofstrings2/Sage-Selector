@@ -1,0 +1,50 @@
+{
+  "exefs/main.npdm": {
+    "bytes": 1192,
+    "sha256": "efd7e883a2678d6c312c49499f21e3649e04a7a5dc234e390d34cd0a2047d1b1"
+  },
+  "exefs/subsdk4": {
+    "bytes": 75923,
+    "sha256": "590076e789797962c0fd6ae5d49d4b266b01e7d7fbe4d707e6513e981a9068d0"
+  },
+  "romfs/EmoteConfig/emotes.json": {
+    "bytes": 1819,
+    "sha256": "8c6193b752572ed589ff0d8f2f925b2b727446bd853cc2522e889617b18db26e"
+  },
+  "romfs/EmoteConfig/wheel.json": {
+    "bytes": 241,
+    "sha256": "7fd4e2590b775dc5f56f5689cfacd65909d42c033cb9ee82f4024aa967f17f69"
+  },
+  "romfs/UI/Tex/Icon/SageHorse.bntx.zs": {
+    "bytes": 9689,
+    "sha256": "82581f8b21c10db155e77e39008c13c892fc189ec6c91a2d06a5cc671dcce53b"
+  },
+  "romfs/UI/Tex/Icon/SageMemory.bntx.zs": {
+    "bytes": 5596,
+    "sha256": "f2ea8c9982a0a0d4c813506970d6c3806be5ef4f8b9ba717cc33b87c41b47882"
+  },
+  "romfs/UI/Tex/Icon/SageMineru.bntx.zs": {
+    "bytes": 15172,
+    "sha256": "b69c6fa3cabe63171dcaa32f668da40bacd820c8ab5eeff6dabf08e09c7be0bf"
+  },
+  "romfs/UI/Tex/Icon/SageRiju.bntx.zs": {
+    "bytes": 15101,
+    "sha256": "61fd762f18df4fc356d03c5c66fad81baa6377a5ce9d6b191745c1754edbe17a"
+  },
+  "romfs/UI/Tex/Icon/SageSidon.bntx.zs": {
+    "bytes": 14809,
+    "sha256": "f992c50322c2adbb27eb6edbe000cddbf81dcd18a48556f757f8df9cbb1434dc"
+  },
+  "romfs/UI/Tex/Icon/SageSleep.bntx.zs": {
+    "bytes": 12597,
+    "sha256": "644c4b932a18bb90dd55d0fc495979a066bd5478e0a5e9507a8fb35737a94487"
+  },
+  "romfs/UI/Tex/Icon/SageTulin.bntx.zs": {
+    "bytes": 14730,
+    "sha256": "6e93abda04482dfbf38261f85d1aaba6d14b101893dcf24006e92e4bcba37269"
+  },
+  "romfs/UI/Tex/Icon/SageYunobo.bntx.zs": {
+    "bytes": 14868,
+    "sha256": "ae77e283f1ade2aecfa0a2a78959da023eca09eff3963043f70ab674571885ad"
+  }
+}

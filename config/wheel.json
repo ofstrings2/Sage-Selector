@@ -1,0 +1,13 @@
+{
+  "_note": "Sage Selector D10",
+  "slots": {
+    "Top": "tulin",
+    "Top Right": "memory",
+    "Right": "yunobo",
+    "Down Right": "mineru",
+    "Down": "sidon",
+    "Down Left": "horse",
+    "Left": "riju",
+    "Top Left": "warp"
+  }
+}

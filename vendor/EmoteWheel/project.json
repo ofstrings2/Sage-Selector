@@ -1,0 +1,11 @@
+{
+  "project": {
+    "name": "EmotesOfTheKingdom",
+    "version": "1.0.0",
+    "author": "Nintending",
+    "description": "Emote Wheel for The Legend of Zelda: Tears of the Kingdom",
+    "debug": true
+  },
+  "target": "TOTK 1.2.1",
+  "module": "subsdk4"
+}

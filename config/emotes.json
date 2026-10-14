@@ -1,0 +1,84 @@
+{
+  "emotes": {
+    "tulin": {
+      "EmoteID": "tulin",
+      "ASCommand": "TakeTheL",
+      "SLink": "TakeTheL",
+      "Bntx": "SageTulin",
+      "Name": "Tulin",
+      "Loop": false,
+      "DurationMs": 1,
+      "MusicDelayMs": 0
+    },
+    "memory": {
+      "EmoteID": "memory",
+      "ASCommand": "TakeTheL",
+      "SLink": "TakeTheL",
+      "Bntx": "SageMemory",
+      "Name": "Memory",
+      "Loop": false,
+      "DurationMs": 1,
+      "MusicDelayMs": 0
+    },
+    "yunobo": {
+      "EmoteID": "yunobo",
+      "ASCommand": "TakeTheL",
+      "SLink": "TakeTheL",
+      "Bntx": "SageYunobo",
+      "Name": "Yunobo",
+      "Loop": false,
+      "DurationMs": 1,
+      "MusicDelayMs": 0
+    },
+    "mineru": {
+      "EmoteID": "mineru",
+      "ASCommand": "TakeTheL",
+      "SLink": "TakeTheL",
+      "Bntx": "SageMineru",
+      "Name": "Mineru",
+      "Loop": false,
+      "DurationMs": 1,
+      "MusicDelayMs": 0
+    },
+    "sidon": {
+      "EmoteID": "sidon",
+      "ASCommand": "TakeTheL",
+      "SLink": "TakeTheL",
+      "Bntx": "SageSidon",
+      "Name": "Sidon",
+      "Loop": false,
+      "DurationMs": 1,
+      "MusicDelayMs": 0
+    },
+    "horse": {
+      "EmoteID": "horse",
+      "ASCommand": "TakeTheL",
+      "SLink": "TakeTheL",
+      "Bntx": "SageHorse",
+      "Name": "Horse",
+      "Loop": false,
+      "DurationMs": 1,
+      "MusicDelayMs": 0
+    },
+    "riju": {
+      "EmoteID": "riju",
+      "ASCommand": "TakeTheL",
+      "SLink": "TakeTheL",
+      "Bntx": "SageRiju",
+      "Name": "Riju",
+      "Loop": false,
+      "DurationMs": 1,
+      "MusicDelayMs": 0
+    },
+    "warp": {
+      "EmoteID": "warp",
+      "ASCommand": "TakeTheL",
+      "SLink": "TakeTheL",
+      "Bntx": "SageSleep",
+      "Name": "Sleep",
+      "Loop": false,
+      "DurationMs": 1,
+      "MusicDelayMs": 0
+    }
+  }
+}

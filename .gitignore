@@ -1,0 +1,17 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.o
+*.elf
+*.bin
+*.nso
+*.npdm
+*.bntx*
+*.bwav
+*.zip
+inputs/
+vendor-python/
+recovered/outputs/
+recovered/work/**/build/
+vendor/EmoteWheel/build/
+vendor/EmoteWheel/deploy/

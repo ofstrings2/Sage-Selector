@@ -1,0 +1,20 @@
+{
+  "review_date": "2026-10-14",
+  "EmoteWheel": {
+    "url": "https://github.com/KB0MB/EmoteWheel",
+    "commit": "26c94741abe3932b2ff6d7d38e9e8d924b445249",
+    "exact_donor_correspondence_verified": false
+  },
+  "WiiXLaunch_attribution_reference": {
+    "url": "https://github.com/BladesawStudios/WiiXLaunch",
+    "commit": "e0de18be9eb4c9a9ebf332f5163193ac53b942f7",
+    "note": "current credit reference, not claimed as historical donor revision"
+  },
+  "donor_subsdk4_sha256": "152d8a099e3dae178b96292ab5c8f47a97caa8a0145bab831b82e040b8be763b",
+  "D28_historical_zip_sha256": "4d3c8f3522e9d9f5a03d2ab1a9f031d79565015f72d5ef8f3f694b7b514cd36f",
+  "sources": [
+    "https://github.com/KB0MB/EmoteWheel/blob/26c94741abe3932b2ff6d7d38e9e8d924b445249/THIRD_PARTY.txt",
+    "https://www.gnu.org/licenses/gpl-faq.en.html#v2v3Compatibility",
+    "https://gamebanana.com/members/2858090"
+  ]
+}

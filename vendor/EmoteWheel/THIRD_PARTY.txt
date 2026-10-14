@@ -1,0 +1,31 @@
+EmoteWheel source publication
+
+Original EmotesOfTheKingdom project author: Nintending (from wiixlaunch.json).
+EmoteWheel runtime changes include configuration, audio, input, HUD and persistence.
+The mod/WiiXLaunch source is provided under the existing GPL-3.0 license in LICENSE.
+
+WiiXLaunch: https://github.com/BladesawStudios/WiiXLaunch
+  include/, generated/include/, source/wiixlaunch/: GPL-3.0.
+  Original WiiXLaunch README retained in licenses/WiiXLaunch-README.md.
+
+exlaunch: https://github.com/shadowninja108/exlaunch
+  Other source/, misc/, Makefile and build framework: original GPL-2.0 terms,
+  except files carrying their own licenses. See source/LICENSE and misc/LICENSE.
+  This is the local framework snapshot used to build the distributed module.
+
+oss-rtld: https://github.com/Thog/oss-rtld
+  source/rtld/: ISC; original notice in source/rtld/LICENSE.txt.
+
+Other embedded notices, including Atmosphere, libnx and the nx64 hook implementation,
+are retained in their source files. They are not relicensed by the top-level LICENSE.
+
+Compatibility note: some bundled exlaunch/Atmosphere files explicitly specify
+GPL version 2 without an "or later" option, while WiiXLaunch specifies GPL-3.0.
+These versions are not automatically compatible for a linked combined binary.
+Publishing this source preserves the existing grants; it does not establish an
+exception, relicense dependencies, or resolve the combined-binary licensing issue.
+Clarification/permission from the relevant rights holders or compatible replacements
+is needed before describing the entire binary as GPL-3.0 compliant.
+
+No Nintendo game assets, full game executables, animations or music are included.
+The code license does not grant rights to separately distributed third-party assets.

@@ -1,0 +1,8 @@
+/build/
+/deploy/
+/*.elf
+/*.nso
+/*.npdm
+/*.map
+__pycache__/
+*.pyc

@@ -1,0 +1,20 @@
+Requirements: devkitPro with devkitA64, libnx, switch-tools, GNU make and Python 3.
+On Windows, use the devkitPro MSYS2 shell. Keep the checkout path free of spaces.
+
+Set DEVKITPRO to your devkitPro installation and DEVKITA64 to its devkitA64 folder.
+Ensure devkitA64/bin and devkitPro/tools/bin are on PATH, then run:
+
+    make -j4
+
+The output is deploy/subsdk4 and deploy/main.npdm. Copy these into the mod's exefs
+folder. This is the existing WiiXLaunch/exlaunch implementation for TOTK 1.2.1.
+The complete local framework sources and generated settings are included; no
+submodule download or proprietary game files are required to compile the module.
+The game still needs the separately distributed mod assets to use the emotes.
+
+Configuration goes in romfs/EmoteConfig/emotes.json and wheel.json. The module
+creates sdcard/EmoteWheel/last-used.json for persistence.
+
+Portability edits for this source release (2026-10-14): replaced local absolute
+include paths in config.mk and fixed the make target name to stage in
+misc/mk/common.mk. Gameplay and framework source files are unchanged.

@@ -1,0 +1,60 @@
+Sage Selector D28 — copyright and third-party notices
+Prepared 2026-10-14. Source project: https://github.com/ofstrings2/Sage-Selector
+
+STATUS: BINARY REDISTRIBUTION NOT CLEARED. Read RELEASE_BLOCKERS.md.
+This notice preserves attributions and license texts. It is not new permission
+from any third-party rights holder and does not resolve license incompatibility.
+
+Sage Selector: ofstrings2 — design, integration, modifications and packaging.
+Original Sage Selector source contributions are offered under GNU GPL version 3.
+The top-level LICENSE applies only where a valid GPLv3 grant exists. It does not
+replace the terms of any other component, game artwork or the combined binary.
+
+The5thTear — WiiXLaunch creator.
+GameBanana: https://gamebanana.com/members/2858090
+GitHub: https://github.com/The5thTear
+WiiXLaunch project: https://github.com/BladesawStudios/WiiXLaunch
+The inherited WiiXLaunch/mod source carries GPL-3.0 texts.
+Current upstream also credits Mindstormmann as co-developer; the exact historical
+contribution in this older donor is unverified.
+
+KB0MB — EmoteWheel source/release maintainer and donor implementation.
+https://github.com/KB0MB/EmoteWheel
+Nintending — original EmotesOfTheKingdom project author per project.json.
+Their identity relationship has not been established; both recorded names remain.
+Source snapshot: 26c94741abe3932b2ff6d7d38e9e8d924b445249
+The snapshot includes GPL-3.0 mod/framework code and separately licensed files.
+It has not been proven to reproduce donor NSO SHA-256
+152d8a099e3dae178b96292ab5c8f47a97caa8a0145bab831b82e040b8be763b.
+
+shadowninja108 and contributors — ExLaunch.
+https://github.com/shadowninja108/exlaunch
+The bundled source/ and misc/ carry GPL-2.0 texts, with per-file exceptions.
+Atmosphere-NX contributors — embedded framework/OS support code.
+https://github.com/Atmosphere-NX/Atmosphere
+Several inherited files explicitly grant GPL version 2 without an or-later
+option. These grants are not automatically compatible with GPL version 3.
+See licenses/GPL-2.0.txt and the unchanged embedded notices in the source.
+
+Copyright 2019 Thog — oss-rtld. ISC license.
+https://github.com/Thog/oss-rtld
+Full original notice: licenses/oss-rtld-ISC.txt.
+
+Copyright (c) 2018 Rprop (r_prop@outlook.com) — And64InlineHook. MIT license.
+https://github.com/Rprop/And64InlineHook
+Full original notice: licenses/Rprop-And64InlineHook-MIT.txt.
+
+libnx Authors, including plutoo and TuxSH — Switch support code/headers.
+https://github.com/switchbrew/libnx
+Supplemental upstream ISC notice: licenses/libnx-ISC.txt.
+This supplements, rather than replaces, the embedded source-file notices.
+
+Nintendo — original Tears of the Kingdom game and native icon artwork.
+The eight modified native icon textures in the candidate retain separate game
+asset rights. The code licenses do not license Nintendo artwork or game files.
+The source repository excludes game executables, Nintendo textures, music,
+animations, game dumps and donor executable binaries.
+
+Build-time tools are separate dependencies, not bundled executables:
+Python 3, LLVM/Clang, Pillow, lz4, zstandard, capstone, texture2ddecoder and astcenc.
+Dependency and framework licenses are not overwritten by the top-level LICENSE.

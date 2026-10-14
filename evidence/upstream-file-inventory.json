@@ -1,0 +1,1282 @@
+[
+  {
+    "path": ".gitattributes",
+    "sha256": "614fe3da05f0e8fa3a6e2a341b419e9d023dc975f6f07774b5bdd9aa8014516a",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": ".gitignore",
+    "sha256": "d15294b94dfca63f99cba7b937976e474f766c67007349c730aa9fde0d739659",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "BUILDING.txt",
+    "sha256": "28d0490b31b4ea64df1eec81328aec3bf96718e99621106fb8524c85ca0fcf19",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "LICENSE",
+    "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "Makefile",
+    "sha256": "823f949096cb9b80e55651bdcb127ba36bdf06ed27f3c951956f2dde1a79c144",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "README.md",
+    "sha256": "834ccc8588c8ba927ad8373086f6968b61f77861d2c0c7d68a4e516d789d38a3",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "THIRD_PARTY.txt",
+    "sha256": "8d23fcbf9aa3db40a4e1e4f14fb8d25ae40ffd4d48657b9c416c2cbbee9e4fb3",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "config.json",
+    "sha256": "7293f996f2f780f5d10595994016abf95a1331e9042d1751d008065d6b713f08",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "config.mk",
+    "sha256": "85875c82700d58c2a1195ce740f9ab561dccde753d001602f6be5025f9c16a8c",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "generated/include/program/setting.hpp",
+    "sha256": "4903ec49cfbe0eefae30c30c52b3140d93ff35736ad937d386368e8aaff03e8b",
+    "notice": "GPL-3.0 per upstream THIRD_PARTY.txt"
+  },
+  {
+    "path": "include/LICENSE",
+    "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+    "notice": "GPL-3.0 per upstream THIRD_PARTY.txt"
+  },
+  {
+    "path": "include/wiixl_cemu_backend.hpp",
+    "sha256": "660ed0c5c1d4310a7fcb6a64e0b5fa298571b9cc15a313d445697ac61850ed01",
+    "notice": "GPL-3.0 per upstream THIRD_PARTY.txt"
+  },
+  {
+    "path": "include/wiixlaunch/call.hpp",
+    "sha256": "ed5c100123aac8203ee2274a573ed5d200693e024d0291d2ab4c4d37a2285f6f",
+    "notice": "GPL-3.0 per upstream THIRD_PARTY.txt"
+  },
+  {
+    "path": "include/wiixlaunch/context.hpp",
+    "sha256": "cd278447bee12fb269aac06e3b2d1a48b2f068e4f0602111fed175525d2fc847",
+    "notice": "GPL-3.0 per upstream THIRD_PARTY.txt"
+  },
+  {
+    "path": "include/wiixlaunch/debug_log.hpp",
+    "sha256": "9311e98f9c433762bf902f7e33e58b938e8564a8a8dfa2d24d07c15ca73f7a8d",
+    "notice": "GPL-3.0 per upstream THIRD_PARTY.txt"
+  },
+  {
+    "path": "include/wiixlaunch/emote_config.hpp",
+    "sha256": "307b2e90d0842608d588c24c3e4092931dbd82e1a93b5edca330813275942e87",
+    "notice": "GPL-3.0 per upstream THIRD_PARTY.txt"
+  },
+  {
+    "path": "include/wiixlaunch/emote_defaults.hpp",
+    "sha256": "17d719d1bfa6709f04ce9c1447843c5018cb91be506fbe00ff9d7ad869f1a5b6",
+    "notice": "GPL-3.0 per upstream THIRD_PARTY.txt"
+  },
+  {
+    "path": "include/wiixlaunch/emote_input.hpp",
+    "sha256": "e94a9a7af8164b6380b65842e36f810ead8cd7d4cf240371406cb34f313073a0",
+    "notice": "GPL-3.0 per upstream THIRD_PARTY.txt"
+  },
+  {
+    "path": "include/wiixlaunch/emote_storage.hpp",
+    "sha256": "def0f5e6ec18a69d5d7bbf84e73358ee672c7e270d223dc84aebe1b297d125cf",
+    "notice": "GPL-3.0 per upstream THIRD_PARTY.txt"
+  },
+  {
+    "path": "include/wiixlaunch/generated_setting.hpp",
+    "sha256": "4903ec49cfbe0eefae30c30c52b3140d93ff35736ad937d386368e8aaff03e8b",
+    "notice": "GPL-3.0 per upstream THIRD_PARTY.txt"
+  },
+  {
+    "path": "include/wiixlaunch/generated_wiiu_config.hpp",
+    "sha256": "ceee1451971dc7be59d21c650b82490c5a9996a1c0a00fb54e86f04a1e98689c",
+    "notice": "GPL-3.0 per upstream THIRD_PARTY.txt"
+  },
+  {
+    "path": "include/wiixlaunch/hook.hpp",
+    "sha256": "c09ec44f280d4d6804bfb3a0018b3ca6a92390d13c5b8f7a71276d3ffc74e119",
+    "notice": "GPL-3.0 per upstream THIRD_PARTY.txt"
+  },
+  {
+    "path": "include/wiixlaunch/offsets.hpp",
+    "sha256": "e605dfd338f0864d5694a3206a9a7b73c45a5314d5ac91835f068443ac28b78d",
+    "notice": "GPL-3.0 per upstream THIRD_PARTY.txt"
+  },
+  {
+    "path": "include/wiixlaunch/patch.hpp",
+    "sha256": "2bfff1931855c1e20653f3d7db13d80331d83c7886828be91aaeaa6d761fb6f0",
+    "notice": "GPL-3.0 per upstream THIRD_PARTY.txt"
+  },
+  {
+    "path": "include/wiixlaunch/platform.hpp",
+    "sha256": "21b4d456bd229ecfd31adb61c8e068fd0a4c638cd96aea9c08c98a52e7b9a426",
+    "notice": "GPL-3.0 per upstream THIRD_PARTY.txt"
+  },
+  {
+    "path": "include/wiixlaunch/switch/switch_backend.hpp",
+    "sha256": "47fef604e538bbcb5d7e0d954846a0fa37cf7fa829d3a303c1c80e174a493e60",
+    "notice": "GPL-3.0 per upstream THIRD_PARTY.txt"
+  },
+  {
+    "path": "include/wiixlaunch/time.hpp",
+    "sha256": "ba31c7619aa4837bde43cb7e2a29dc1797bee57a4719c05a5d176dbc5b48d719",
+    "notice": "GPL-3.0 per upstream THIRD_PARTY.txt"
+  },
+  {
+    "path": "include/wiixlaunch/totk_emotes.hpp",
+    "sha256": "1c4d62f74d2c2bfab7460003ed368e846068bfcb7e160cf3daa482f88dafadd1",
+    "notice": "GPL-3.0 per upstream THIRD_PARTY.txt"
+  },
+  {
+    "path": "include/wiixlaunch/wiiu/wiiu_backend.hpp",
+    "sha256": "15961d93a7833091c12d3bf3b0913eaf00e949320bd7bbf0cf3a6ff678f2d30d",
+    "notice": "GPL-3.0 per upstream THIRD_PARTY.txt"
+  },
+  {
+    "path": "include/wiixlaunch.hpp",
+    "sha256": "7abd84c1544215d4f0002acce98ec5f3b4c55c412c382d78242f373b538c5f28",
+    "notice": "GPL-3.0 per upstream THIRD_PARTY.txt"
+  },
+  {
+    "path": "licenses/WiiXLaunch-README.md",
+    "sha256": "b0907e978b19978300966074bebb28358d4f1206adfd33d61b70e5063d2df410",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "misc/LICENSE",
+    "sha256": "8177f97513213526df2cf6184d8ff986c675afb514d4e68a404010521b880643",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "misc/link.ld",
+    "sha256": "523573f78fa67035450f0acb6874da795b4aca55e65c262477bd00c5b28ceeb5",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "misc/mk/as_rtld.mk",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "misc/mk/common.mk",
+    "sha256": "36620ad72b9328136a2ce66023129b4dc228f9da0bc3a013339fe53e4d29e7c6",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "misc/mk/deploy.mk",
+    "sha256": "de2a122bfd334890eb639d5fcb38eb560a26dc4d42866bd3325dce81105c013b",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "misc/mk/module.mk",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "misc/mk/npdm.mk",
+    "sha256": "d57654bd5580ad69b4777a8309371ff6aab40ff20849091d488c5de5af4fd373",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "misc/npdm-json/application.json",
+    "sha256": "46960aa2bcc9e9888302cb2006364a91808c543df395d213b1d382f551294858",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "misc/npdm-json/qlaunch.json",
+    "sha256": "9e47c3a33ee6eb5a054b3f663b79b88534ae7ee9be49eef8fb3f82fc5bc93e15",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "misc/scripts/deploy-ftp.py",
+    "sha256": "1d2fa2371b7c221628377f99eaccc1af7fe8ed0ce1a47940bbfa0611bc0e43d1",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "misc/scripts/deploy-ryu.sh",
+    "sha256": "3af0eac738f25add6d6e256fb079f5b0d96265da595f13333654371135fafc23",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "misc/scripts/deploy-sd.sh",
+    "sha256": "5b06ba35bd9e41ccc3b7c90d4532a6f92fda6c492de80928d832c9b333607f35",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "misc/scripts/make-npdm-json.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "misc/scripts/post-build.sh",
+    "sha256": "05f922021667f4a7a728e3adb498124493dc30a512feee263cca60b62953cde1",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "misc/specs/as_rtld.specs",
+    "sha256": "8d16f1a37b4454fff1f27f73fe5ebb22433e6a930a0dee58c785fe7e8795f2e8",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "misc/specs/module.specs",
+    "sha256": "af072e5620d47f1c4ec29a17136e6c0ae8ea45c460cfa47283393ae5c0a16b9a",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "project.json",
+    "sha256": "3833b96851fb1c07477b89f0fcc8b2164c92f38a3c8efabb9570a38f6550a1b3",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/LICENSE",
+    "sha256": "8177f97513213526df2cf6184d8ff986c675afb514d4e68a404010521b880643",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/common.hpp",
+    "sha256": "15c10015368d801b586d6c4b28c9a1351de998e5076093ad519fad333dc2b86a",
+    "notice": "explicit GPL-2.0-only header; compatibility unresolved"
+  },
+  {
+    "path": "source/lib/alloc.hpp",
+    "sha256": "7cd414f58c8c77439b1c32582f936b22b8118dcfafd9019b7d2f262464ac0f99",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/armv8/instructions/base.hpp",
+    "sha256": "48021a903dba362f42edd8db9e2e5990c7e18e4903a39de56e69e1400da3a881",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/armv8/instructions/op100x/add_subtract_immediate/add_immediate.hpp",
+    "sha256": "ee040d2ffd09a6545880a1f8cd0105e964392ec60c5fdc930c98abc762f765fa",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/armv8/instructions/op100x/add_subtract_immediate/adds_immediate.hpp",
+    "sha256": "cbf53325f3fb8b80e349253841551dbf5fec86228a86d458a4af331a23a622b5",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/armv8/instructions/op100x/add_subtract_immediate/base.hpp",
+    "sha256": "72b3fb790d01f151c0fca143512df5603e8b4bf6aa7b4439d507eaaeb8c383de",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/armv8/instructions/op100x/add_subtract_immediate/cmn_immediate.hpp",
+    "sha256": "2c2ffe45191ce137dececca4affe9c13c3565352898fb878c0225a3b5650195c",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/armv8/instructions/op100x/add_subtract_immediate/cmp_immediate.hpp",
+    "sha256": "5e87127204a94efdeda91dbeba1193ff1df86f3884ce98dc30ff31d723797172",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/armv8/instructions/op100x/add_subtract_immediate/sub_immediate.hpp",
+    "sha256": "f714aca45a798c6bcb4626d0ff32c34f2c66c475e167bb374f38eadbbe23210c",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/armv8/instructions/op100x/add_subtract_immediate/subs_immediate.hpp",
+    "sha256": "ee23948c2c71f9986cce0edc37666602ed3322051df32fb0e288477e07a89c70",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/armv8/instructions/op100x/base.hpp",
+    "sha256": "35014c4ae835fde11ac4924353ca7a60e962e4df70fd5f54e0bae1aceb1725d6",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/armv8/instructions/op100x/logical_immediate/base.hpp",
+    "sha256": "e84cb864e04401426f8f0cf0ef6d178a4a591a2a33768943a2893a05c0bb5d91",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/armv8/instructions/op100x/logical_immediate/orr_immediate.hpp",
+    "sha256": "ddd5ae129512343347faa55454b7a80c44f02d18333820cb13585013555cc778",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/armv8/instructions/op100x/move_wide_immediate/base.hpp",
+    "sha256": "6ac55add7a6de5d1998b680bb2b7aebc72d17870d78fdc27ecc1d67cbf82ed7f",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/armv8/instructions/op100x/move_wide_immediate/movk.hpp",
+    "sha256": "22d2a1817815b2d9348f30954b992350724e2e1cceb4b8dd28b084bac44bb08f",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/armv8/instructions/op100x/move_wide_immediate/movn.hpp",
+    "sha256": "5639f405c8d3bee1b7c4638ce9a50730900e43fc453f074f11b33500b4055613",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/armv8/instructions/op100x/move_wide_immediate/movz.hpp",
+    "sha256": "c3ed38793957178d2e356683b2c8c382beaa558deb346dbcdf7ff5c11773c8a4",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/armv8/instructions/op100x/pc_rel_addressing/adr.hpp",
+    "sha256": "6a2e9564eeb2377965eaf267f670530e3e484854f4a198f4c21e95bd4929e4d4",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/armv8/instructions/op100x/pc_rel_addressing/adrp.hpp",
+    "sha256": "783d8b06004e50dd849364255930e34063655992ef4e6639fd1911574f4fd324",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/armv8/instructions/op100x/pc_rel_addressing/base.hpp",
+    "sha256": "2bf837f1c0df8a73c1a48f6c6c5b9671bdcafc07a5705ae8f8e3108e1c5e89af",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/armv8/instructions/op101x/base.hpp",
+    "sha256": "2d9fd84de85ce4c9b41a61b83b0df5ea17d5f27b0c5ade5bed06a9a33e6affc1",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/armv8/instructions/op101x/hints/base.hpp",
+    "sha256": "7620f7763c51587b51d0631c436276ef40b05b9ce97f0d61c7c076e0ed16066b",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/armv8/instructions/op101x/hints/nop.hpp",
+    "sha256": "48a6ebed1363f490701e67ddc74637baf3313e8299875a16c9a258e5b4e07015",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/armv8/instructions/op101x/unconditional_branch_immediate/b.hpp",
+    "sha256": "85a1c8c226bfd8b40580372fc8e6383e3cbc8aa0a3b0e09262184a2c7cec2cb8",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/armv8/instructions/op101x/unconditional_branch_immediate/base.hpp",
+    "sha256": "ab55fcb272deff7b399b1738daa4d0b60c26cd51089a57f4470f1e12a501e60f",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/armv8/instructions/op101x/unconditional_branch_immediate/bl.hpp",
+    "sha256": "40a41e1fbe55dd32c109cc0309083fb6c7fb4c1b827e5bd8676c05b10b173b2b",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/armv8/instructions/op101x/unconditional_branch_register/base.hpp",
+    "sha256": "6472281fb60b61d06aca076daeb02f439651ba9f54f8ec89228d9f3e1a3161ba",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/armv8/instructions/op101x/unconditional_branch_register/br.hpp",
+    "sha256": "71572530907ff872fa426e3b9c8bf8dc492f880fb458d39c062fdbcd404a43a8",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/armv8/instructions/op101x/unconditional_branch_register/ret.hpp",
+    "sha256": "eb40bcd7193e9b96243d99a9655b91a146c59b30bd5771c56246a0cb67d11513",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/armv8/instructions/opx101/base.hpp",
+    "sha256": "fd7a856afa1326fa424802015c815754ce5613927e69da29c2c1ae56759f2b4a",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/armv8/instructions/opx101/logical_shifted_register/base.hpp",
+    "sha256": "710d439f07b3cd2d1b5b847ee091fd07b3b5c397d8720e6ddc9bb280cc33c7d2",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/armv8/instructions/opx101/logical_shifted_register/mov_register.hpp",
+    "sha256": "9cc29d359138909918e84ab64cd5c4cfbec6aad7130bae6d889d7ccc1c5743b4",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/armv8/instructions/opx101/logical_shifted_register/orr_shifted_register.hpp",
+    "sha256": "a0ca439167eb49ca3eda0926e90c8e36b757a0ed72434c083ced5d3e0a60f185",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/armv8/instructions/opx1x0/base.hpp",
+    "sha256": "f6163cca786cd031acaad7ff9e1306d444abfa25236412992660402b0595e5de",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/armv8/instructions/opx1x0/load_register_literal/base.hpp",
+    "sha256": "64d3b8ee8fc36c5bb5d9e8509c38ca52ff83adc82384f2a641a27a77c3ea9735",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/armv8/instructions/opx1x0/load_register_literal/ldr_literal.hpp",
+    "sha256": "3007e4f929ab41a6b8ebeacc1cdd6ec4d1d116c88f1821abbf046d2c858c5169",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/armv8/instructions/opx1x0/load_store_register_offset/base.hpp",
+    "sha256": "d74ceeb685ca1739a379cc2c9778ea008b139664979d7c25b6f428aa737fc694",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/armv8/instructions/opx1x0/load_store_register_offset/ldr_register_offset.hpp",
+    "sha256": "b2c4947c06fdfb0ca6614613b46db080b7441caf13f14826211047bb76ce8de0",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/armv8/instructions/opx1x0/load_store_register_offset/str_register_offset.hpp",
+    "sha256": "09e64522865b259b1e8789c7f709feb6cd49a3cc50af56298ad774f3b56b6838",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/armv8/instructions/opx1x0/load_store_register_unscaled_immediate/base.hpp",
+    "sha256": "e0d702489713b7eff2a80d8b58e30b7308f617fdb371351e657b5436fe5dd0b2",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/armv8/instructions/opx1x0/load_store_register_unscaled_immediate/ldur_unscaled_immediate.hpp",
+    "sha256": "31b5c9e1ff22c412c151495a31bb0f0476af8d19f7bd61a8df57cb801a360704",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/armv8/instructions/opx1x0/load_store_register_unscaled_immediate/stur_unscaled_immediate.hpp",
+    "sha256": "324b5b192764d8e00cdf772720daaf664c1b191c60605f4918dadad5b17dc7e7",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/armv8/instructions/opx1x0/load_store_register_unsigned_immediate/base.hpp",
+    "sha256": "1e5e5b8c1202547de5759ad431029dcb8c8186ca56abbee5e68cca72fe9b1012",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/armv8/instructions/opx1x0/load_store_register_unsigned_immediate/ldr_register_immediate.hpp",
+    "sha256": "5b86cfa7de0ee093c232e8486fe7bca084fb381eacd0c2126406c030129b5db2",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/armv8/instructions/opx1x0/load_store_register_unsigned_immediate/str_register_immediate.hpp",
+    "sha256": "44633474c03998f99d5afd885fb29ef60e946f0961d17585640afe86e253b2b9",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/armv8/instructions.hpp",
+    "sha256": "e39ccd40bbe680d13bc0b4eaf0f164670082855ab1f582eb3928d6b2f913301c",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/armv8/register.hpp",
+    "sha256": "920e1aca3d5bfa1f69c7e4bcc14df2a116bee631214857979c469e8c694d11e4",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/armv8.hpp",
+    "sha256": "b56fb8190d38aec8bca0c5512eb6985f71100b0791734a3b9f9f7a2c89b4754a",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/diag/abort.hpp",
+    "sha256": "8999e10101dec95b28a498ed212c8d68b40c5e1cbb05c3c6a375590a958be1f9",
+    "notice": "explicit GPL-2.0-only header; compatibility unresolved"
+  },
+  {
+    "path": "source/lib/diag/assert.cpp",
+    "sha256": "763a67b359044c39ec7a4c2ff0b08033fd7b7e1e7a4fd740fcff86e9b9a7cb0f",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/diag/assert.hpp",
+    "sha256": "a2d66fe53cccb18e0694b81b403d21a0ad47ab7acc4341f12ef57c1edfb64081",
+    "notice": "explicit GPL-2.0-only header; compatibility unresolved"
+  },
+  {
+    "path": "source/lib/diag/log_types.hpp",
+    "sha256": "e25e467fd076b61a9f08260c5aee6a481f47b07bbd5769c1bb2c85c5e5d2568c",
+    "notice": "explicit GPL-2.0-only header; compatibility unresolved"
+  },
+  {
+    "path": "source/lib/diag/reboot_to_payload.cpp",
+    "sha256": "d8266a3412dd4d43c79503385a170fafeec33ee49533de90065ea7a55ad20776",
+    "notice": "explicit GPL-2.0-only header; compatibility unresolved"
+  },
+  {
+    "path": "source/lib/diag/reboot_to_payload.hpp",
+    "sha256": "9c53cdc65674b2c78d5f42f4ac213964382458b7a350cf510dcdfedb653f798a",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/hook/base.hpp",
+    "sha256": "88c3179ed40b144e0c7483a20a6a6e3cdf88414e099fd5481e830fb81b21860a",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/hook/class.hpp",
+    "sha256": "fad104415539f580ead632b17b7b62e46dc8b4adea2284937ecb288c68f8925d",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/hook/deprecated.hpp",
+    "sha256": "899631e947799339aecab57bc7aa433888bc7152c5cc9cc43e4bfc0b2a9ff98f",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/hook/inline.hpp",
+    "sha256": "56e8c3674597e654634282d365c2d63a32309612d47e7b6a4a771c271c088d16",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/hook/nx64/hook_impl.cpp",
+    "sha256": "4ec82227827465cb59464d5b148607c63e96a2813c3b3f528d17b4ac7a4d0c39",
+    "notice": "MIT; Rprop notice retained"
+  },
+  {
+    "path": "source/lib/hook/nx64/impl.hpp",
+    "sha256": "125dfd419ad83d796cf9171464307fd83824a6e79241cb9ce68f77fc823e9f3b",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/hook/nx64/inline_asm.s",
+    "sha256": "fb8efc2d491a62c474e3679695f74ae6523c7e9d18480a0265eb8105589fe2f5",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/hook/nx64/inline_impl.cpp",
+    "sha256": "99de275cdffda6e922508acd5c951f61a86e1cbaf5a74f6e96896318deb2a1e5",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/hook/nx64/inline_impl.hpp",
+    "sha256": "789146d965f706248d5e3f1b2b913ec83f000b61c80d938b6473f968a0a51c06",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/hook/replace.hpp",
+    "sha256": "767dc06e94ec2d603185c5d6ad0d33a9258a80ea493c2c4f87b0d79db77045c7",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/hook/trampoline.hpp",
+    "sha256": "84711a0286953fe17acf962215f3434c409035d1af88e5ee354ddc524413f978",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/init/crt0.s",
+    "sha256": "3a44760f7a2dd964e90cf42c95ba721eea3b3164a185a1a7634908052fdbf26a",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/init/header.s",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/init/init.cpp",
+    "sha256": "a48e199550e345d630556ea759edb5152c4d1f38117ca3fa6371dc86c1f8ad90",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/libsetting.hpp",
+    "sha256": "8fc9cad15df9fb985904b3f8fe0b85201b15c2bbe3dea9e87f1cc4921f9fbdb9",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/log/ilogger.hpp",
+    "sha256": "dc534992a61c3ff16a293bf48fe59cb2374b8a0a16bd86ea600b3506ce00653f",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/log/logger_mgr.hpp",
+    "sha256": "aee7f31c2e3408442a1e81bb98366a9a8d3f87595bf8f96a78cd1846c97e4fcb",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/log/svc_logger.cpp",
+    "sha256": "cd355c97898b6756db7cb3196e48311922e0f5048f42190a8c02000141b1f735",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/log/svc_logger.hpp",
+    "sha256": "2f2d17e03522f54587ebbc6a609a4575e6daf6d1d0c7642d411dfc4fb4ab43e6",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/module.cpp",
+    "sha256": "3323ceb2cf09e6a18065cf010bd9bb5cb60d5bba554b5d87d899605b42c5d64c",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/nx/abort.h",
+    "sha256": "ce0f7c64233ef6ad2a03c438930b704ea1224fe305708a29f98ad01328588a47",
+    "notice": "libnx component; embedded author notices retained; supplemental upstream ISC supplied"
+  },
+  {
+    "path": "source/lib/nx/arm/cache.h",
+    "sha256": "8d6d006a6c447087e9a98440ec956630650ef9aa1d880a9d9bcec1b9ec1ea03b",
+    "notice": "libnx component; embedded author notices retained; supplemental upstream ISC supplied"
+  },
+  {
+    "path": "source/lib/nx/arm/cache.s",
+    "sha256": "a09f30fab7f48262e90855cadb586f0b570437285421b3154edcb2b656740ed6",
+    "notice": "libnx component; embedded author notices retained; supplemental upstream ISC supplied"
+  },
+  {
+    "path": "source/lib/nx/arm/thread_context.h",
+    "sha256": "2bdabc3e11a09be11ecbccd71db2cb33d2e740f1697cc5e57ec31b936fa8d9fb",
+    "notice": "libnx component; embedded author notices retained; supplemental upstream ISC supplied"
+  },
+  {
+    "path": "source/lib/nx/arm/tls.h",
+    "sha256": "2a489de0ee7d1531172d676afccc5e6ba7fdf8d3b42d05737a546181569c8b52",
+    "notice": "libnx component; embedded author notices retained; supplemental upstream ISC supplied"
+  },
+  {
+    "path": "source/lib/nx/kernel/svc.h",
+    "sha256": "febac575090fbfe7fc616e04a597ce42a782cbdfdf85fe017d99d78eb561fb19",
+    "notice": "libnx component; embedded author notices retained; supplemental upstream ISC supplied"
+  },
+  {
+    "path": "source/lib/nx/kernel/svc.s",
+    "sha256": "1097a98e65f420082b0631da0be6cf18a11e584376499f344b6b8c9f1d9bd238",
+    "notice": "libnx component; embedded author notices retained; supplemental upstream ISC supplied"
+  },
+  {
+    "path": "source/lib/nx/kernel/virtmem.c",
+    "sha256": "49aefa87d47ff08733b5c308b12143de7aa3aeb407bdf0aa7590812828885ec9",
+    "notice": "libnx component; embedded author notices retained; supplemental upstream ISC supplied"
+  },
+  {
+    "path": "source/lib/nx/kernel/virtmem.h",
+    "sha256": "92fb0975801cb60d0103af0ef88e6c3b3aaac5d26d5e6b2086c7cfd9994b0619",
+    "notice": "libnx component; embedded author notices retained; supplemental upstream ISC supplied"
+  },
+  {
+    "path": "source/lib/nx/nx.h",
+    "sha256": "f801b98f7199048706d12d4b6317279f31f20706920b94ddde1375acdc14293b",
+    "notice": "libnx component; embedded author notices retained; supplemental upstream ISC supplied"
+  },
+  {
+    "path": "source/lib/nx/result.h",
+    "sha256": "c0417f1a2810f86ac17c58bb777e0e2e294ff795b0ccc0f3b255d5fd1cf5637e",
+    "notice": "libnx component; embedded author notices retained; supplemental upstream ISC supplied"
+  },
+  {
+    "path": "source/lib/nx/smc.c",
+    "sha256": "11587d8ba8d4fb1e65059174cc0da0266c2e498f2fb86fca74cc87010de40b21",
+    "notice": "libnx component; embedded author notices retained; supplemental upstream ISC supplied"
+  },
+  {
+    "path": "source/lib/nx/smc.h",
+    "sha256": "c68dc54b2dbb04efda52d9a832fbb6fc5e5685f12e8dcb4a324e0fe5758dbf09",
+    "notice": "libnx component; embedded author notices retained; supplemental upstream ISC supplied"
+  },
+  {
+    "path": "source/lib/nx/types.h",
+    "sha256": "50f4383dda3b907f9e278bd7ddaaaa8a5dcc61bc5e9debba87973dedbe9abc09",
+    "notice": "libnx component; embedded author notices retained; supplemental upstream ISC supplied"
+  },
+  {
+    "path": "source/lib/patch/code_patcher.hpp",
+    "sha256": "242a58f78c609bbb460cea624bd6d13c78116962901c34123df1088d8b93b472",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/patch/patcher_impl.hpp",
+    "sha256": "e48751f5b3a9aa1673f4e89b43531a188520f7d0e28317187cd3aa39b82b2aea",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/patch/random_access_patcher.hpp",
+    "sha256": "8cf78845d3a8f6bc1ce43a677db41f3247b7238b4b019a5e3614265f58787f71",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/patch/stream_patcher.hpp",
+    "sha256": "897db3572f3dfe5f9c18d35bfa3f9aee1bf3d31ce3ba18777fa5b4d6900f48d2",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/reloc/reloc.cpp",
+    "sha256": "7ab91e2c1a6d9f1892be493709332ea6d810b1db789bc6c0ec22b053f8dd7a91",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/reloc/reloc.hpp",
+    "sha256": "9d3bb0dfdc0c88e1bc9e40474b568eb204b4037d54323417f0339460f58859b1",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/reloc/table/lookup.cpp",
+    "sha256": "e5d554a8ea6f16bba090702e21010ede62d790fca4dfdd8b8d61fb4ad37a446d",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/reloc/table/lookup.hpp",
+    "sha256": "85519fa528efaa9b5055ba726a32263ec67b530a55dec8acb4e72f2475668899",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/reloc/table/lookup_entry.hpp",
+    "sha256": "018da75af13b10cf95854ef87301231ec086d31143956a08aaf8f5c7b6cc020f",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/reloc/table/table.hpp",
+    "sha256": "1c25cddba390e6af4013c56404712e3b854c5284822466a3916c539e1d91e4e2",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/reloc/table/table_set.hpp",
+    "sha256": "3d5db63bc32556e7689a213e54619d0cf430fbf22857914e65305ac8ac0df717",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/result.hpp",
+    "sha256": "0a3d170fa6531af9a3517cb992fc4a0ab783545924ca7d84b1ed2b4013579dc5",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/util/aligned_storage.hpp",
+    "sha256": "989c4234b7dbd274f7027699650c7653f0fe96a0da5a7a5df6b8373464037201",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/util/crc32.hpp",
+    "sha256": "02521031916fc92f7c0468b1014ee7c861ab33f84207e22c1b086e0ae486b91d",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/util/func_ptrs.hpp",
+    "sha256": "9e1b44382c7ad12d90b24b0ce73cb25a9a5a77db02fa75488f3ef1c9a88ffd8f",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/util/math/bitset.hpp",
+    "sha256": "541fc2ea998e4b0406c11529e611242dd2919cd95ff0783179438ce6de1ebe52",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/util/math/sign_extend.hpp",
+    "sha256": "f3e310a5655c2ef0e978f52dd78586ae0d85216cfe4baa0d9c2be1711211c62d",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/util/module_index.hpp",
+    "sha256": "980043c0bae9ae09129d0bb46c5ab0b500174db54e44c2a6e7f3c01a4c575080",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/util/modules.hpp",
+    "sha256": "738f7f1a946edde512f827cf8ec1745392c41826cd2de269dfda61be605a1713",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/util/murmur3.hpp",
+    "sha256": "4c4b1fff4bf35ff76326c2d416c2818395c682424d3cbea2100fe2402c8a53d1",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/util/neon.hpp",
+    "sha256": "ff5cd8acba4666693da69ae705e54ffdb22d24b1b7f488ef3c3a90e2ab5da8fe",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/util/ptr_path.hpp",
+    "sha256": "cc50dce7411199ba0f9f893c30d835aa805f918840363b02b0086d997a2abb37",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/util/random.cpp",
+    "sha256": "352833873a6a911b006337d9d509758d1bda71a5248c0d6f997ba45c99a05628",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/util/random.hpp",
+    "sha256": "c02373078af2ff2d34869aed5cc4285f5227de67f5892d84d2184657d0114423",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/util/stack_trace.hpp",
+    "sha256": "4ce9a2b23b6ef02093c9d27f6643ec89b6930dd9b59cfba128914db7ac365d9f",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/util/strings.hpp",
+    "sha256": "ba4166fb188c1ffa239030f826bd8d72a46be524f45b583a22732786d4ad8517",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/util/sys/cur_proc_handle.cpp",
+    "sha256": "9c85b72315901b6a9fba98d816435a5ee05b60fef7811d77d71d857bdadb5070",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/util/sys/cur_proc_handle.hpp",
+    "sha256": "cf72202e3d969cb7e3599b76f2f553063628740120d3a1dc180a3115d5515615",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/util/sys/jit.hpp",
+    "sha256": "66a05eac46f7fe5d4287eba119582e3e4c8ba93f38c53a49b7bc7b23075d80cc",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/util/sys/mem_layout.cpp",
+    "sha256": "c4c15ca6322c9521bf39a1396687807c4cae8f20759a7cf3edf8663b1f7ec4e1",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/util/sys/mem_layout.hpp",
+    "sha256": "a37699e3c8758226893895fe87998a8c8bed41be510bf131c7ded9b613785dae",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/util/sys/mod0.hpp",
+    "sha256": "baaa6297cc0bd47612cac865ece4930426097652e30e336df40d249ce36b1894",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/util/sys/module_info.hpp",
+    "sha256": "0ab17328e8ac3d9cc3dfed78e42e10290ef0d7f48ec1e0c99d551786faca2863",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/util/sys/modules.hpp",
+    "sha256": "e8cc4be673ea84c3dcd3454397711a81f38ac63cab53dbab24f7e90e9adcb7e1",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/util/sys/range.hpp",
+    "sha256": "3ea0854fef99e04fa72d85d248b0aea377403ba963ec4d07770dde60a25171ca",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/util/sys/rw_pages.cpp",
+    "sha256": "a4b50c72c20b46537c37e77e2d8a076b2c7230e3f7c259b2a01199644e03015e",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/util/sys/rw_pages.hpp",
+    "sha256": "3a905e36869d0b5e929bb8041c2b1d93275fccde4721dfbdb67702e760328079",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/util/sys/soc.hpp",
+    "sha256": "53bd85d603d434618e20ae9f4cab193793ac176808aa0cb83527373b1b8ee874",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/util/type_traits.hpp",
+    "sha256": "d666e51411c8c19394974d304e56520c56e719d84e1c3c0643d15f8c1624e3d4",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/util/typed_storage.hpp",
+    "sha256": "fbe41d6061882234c2601f8ed6bffca9055d9c023c851f7e2fbb8c4f76e0b44d",
+    "notice": "explicit GPL-2.0-only header; compatibility unresolved"
+  },
+  {
+    "path": "source/lib/util/version.cpp",
+    "sha256": "4140f4c8a2b1cae31be5fca5113232d6040e259f5d09b0988e453d86811bda82",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib/util/version.hpp",
+    "sha256": "da3a2b6566a25671955916b9291174f5d86a95bbf8846c7a6413ecad4760ce87",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/lib.hpp",
+    "sha256": "df8ee8450f3da55a6d162b227d40f2b9b454f1d48f2f2c3031b50ca013ec1d91",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/nn/fs/fs_directories.hpp",
+    "sha256": "db230aece1e615dec52219cadedaf290de0b3260073f8a558aa21b888dbd965a",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/nn/fs/fs_files.hpp",
+    "sha256": "efb372ea212105a51093d85f41c8d245edcc83c82d014c033b9433a11e16b932",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/nn/fs/fs_mount.hpp",
+    "sha256": "ef591463e15519ec5ea6fa2dc2a4cbb5eeaf67d72c13c2429bd0e3bd2189ecc9",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/nn/fs/fs_types.hpp",
+    "sha256": "b74f28ab7cc848375ddf6742c00b8f8389d41a2aa101f82f384be1aa0e0b2848",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/nn/fs.hpp",
+    "sha256": "c4645e4311856f74f655b60a841ff8eea287e9f1deb68b17f09406984b6c8715",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/nn/nn_common.hpp",
+    "sha256": "ea230b493ef52a2aa11621e75d208a5ef701cc44f2320d12bf06f15e3cbb14e7",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/nn/nnmusl.hpp",
+    "sha256": "59723d7747fe025eea8515fe9f1207f0526ff6ff431f4a5fb42d2671445162a1",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/nn/os/impl/os_internal_condition_variable.hpp",
+    "sha256": "78ea01a0bd6a5892974ea2f254ea0b3e28f0aa62df95bed4f16b9b9141301ba1",
+    "notice": "explicit GPL-2.0-only header; compatibility unresolved"
+  },
+  {
+    "path": "source/nn/os/impl/os_internal_condition_variable_impl.os.horizon.hpp",
+    "sha256": "de8726015d58103f0a59e0dbf24427d54d5ef140fcbccbc127c6a560dee096db",
+    "notice": "explicit GPL-2.0-only header; compatibility unresolved"
+  },
+  {
+    "path": "source/nn/os/impl/os_internal_critical_section.hpp",
+    "sha256": "a4a58c5e63875921f61cdf755b3a17ef0767ab3ea306bde02b2b363e58baedc8",
+    "notice": "explicit GPL-2.0-only header; compatibility unresolved"
+  },
+  {
+    "path": "source/nn/os/impl/os_internal_critical_section_impl.os.horizon.hpp",
+    "sha256": "170a6650b841bc407be8ee57e28de3d550c372c77b92b9a29a9eff7f279798cf",
+    "notice": "explicit GPL-2.0-only header; compatibility unresolved"
+  },
+  {
+    "path": "source/nn/os/impl/os_internal_light_event.hpp",
+    "sha256": "0236aa799e20bd50a00ed2be6f0532d30642dea8c7f61ec6fc0e2c1afd6b4a5d",
+    "notice": "explicit GPL-2.0-only header; compatibility unresolved"
+  },
+  {
+    "path": "source/nn/os/impl/os_internal_light_event_impl.os.horizon.hpp",
+    "sha256": "297acc09843703f576a429c1de6cfe65f316d5a5c2baac8e284f96f412ffe2dd",
+    "notice": "explicit GPL-2.0-only header; compatibility unresolved"
+  },
+  {
+    "path": "source/nn/os/impl/os_resource_manager.hpp",
+    "sha256": "0dfc51f687a128b936773308beff01cf7e024d1a814aba6b1c434db4dd0d5e2a",
+    "notice": "explicit GPL-2.0-only header; compatibility unresolved"
+  },
+  {
+    "path": "source/nn/os/impl/os_tick_manager_impl.hpp",
+    "sha256": "ddac16690c6239fcbe5ca3e5617921096160983f92ad05c325989bbfa1d6bf3e",
+    "notice": "explicit GPL-2.0-only header; compatibility unresolved"
+  },
+  {
+    "path": "source/nn/os/impl/os_tick_manager_impl.os.horizon.hpp",
+    "sha256": "23e4b2237cb5b2c1751ac6be29948660d9d44423d370174ab1060df516d66355",
+    "notice": "explicit GPL-2.0-only header; compatibility unresolved"
+  },
+  {
+    "path": "source/nn/os/impl/os_timeout_helper.hpp",
+    "sha256": "dc8a245a061e12973b29add2855eab02b9c3942ff2e1fcdfa1e44ae44c46e2eb",
+    "notice": "explicit GPL-2.0-only header; compatibility unresolved"
+  },
+  {
+    "path": "source/nn/os/impl/os_timeout_helper_impl.os.horizon.hpp",
+    "sha256": "828eeb2b74f958248b1bde35014719a4fdb82204da8122ed53e7591dfac18db6",
+    "notice": "explicit GPL-2.0-only header; compatibility unresolved"
+  },
+  {
+    "path": "source/nn/os/os_condition_variable_common.hpp",
+    "sha256": "b5c3bd6871142180a5ec05acdfc72a848f24796137622e7fee5141c9846a643d",
+    "notice": "explicit GPL-2.0-only header; compatibility unresolved"
+  },
+  {
+    "path": "source/nn/os/os_event_api.hpp",
+    "sha256": "239da44b6352bca6f40924366120a7f98db4b49b82fc5189db49890d944532ee",
+    "notice": "explicit GPL-2.0-only header; compatibility unresolved"
+  },
+  {
+    "path": "source/nn/os/os_event_common.hpp",
+    "sha256": "9d897494b8aa0c171bb194ec621ae122334e54744eff3a5e16becbe42d13aad2",
+    "notice": "explicit GPL-2.0-only header; compatibility unresolved"
+  },
+  {
+    "path": "source/nn/os/os_event_types.hpp",
+    "sha256": "843af024d25f1d5e838dc3992cd3df61d5adfd87ca9dc048952535ec44e7b469",
+    "notice": "explicit GPL-2.0-only header; compatibility unresolved"
+  },
+  {
+    "path": "source/nn/os/os_light_event.hpp",
+    "sha256": "0b0cc74b483f24c8f3c5978d21238b03df5c6be295199fc14e6e5e86adafa40e",
+    "notice": "explicit GPL-2.0-only header; compatibility unresolved"
+  },
+  {
+    "path": "source/nn/os/os_light_event_api.hpp",
+    "sha256": "d2973295a2fb5038f83cae88619afcf78b23297a33a4249531dace7a22f05a6b",
+    "notice": "explicit GPL-2.0-only header; compatibility unresolved"
+  },
+  {
+    "path": "source/nn/os/os_light_event_types.hpp",
+    "sha256": "44e1cadf11d1b3c1490896ef8f6c3b3d6612a22263e2258d2065c82377e9e702",
+    "notice": "explicit GPL-2.0-only header; compatibility unresolved"
+  },
+  {
+    "path": "source/nn/os/os_message_queue_api.hpp",
+    "sha256": "84bf9423f741370c34e0b3041dc564f780a205f5625d4b438c1d17a452391085",
+    "notice": "explicit GPL-2.0-only header; compatibility unresolved"
+  },
+  {
+    "path": "source/nn/os/os_message_queue_common.hpp",
+    "sha256": "55f8b600594acb6b02b47a6f16ccfefc5e88554f4a693e28acfe1320a6cd7003",
+    "notice": "explicit GPL-2.0-only header; compatibility unresolved"
+  },
+  {
+    "path": "source/nn/os/os_message_queue_types.hpp",
+    "sha256": "1d6816e0957e7bb364bc0ec47af67abc23a3592c422aa373a0bb1dbee5f967ca",
+    "notice": "explicit GPL-2.0-only header; compatibility unresolved"
+  },
+  {
+    "path": "source/nn/os/os_mutex.hpp",
+    "sha256": "818655cdaddacc309f2b5e2fa49faec11d04f84a8d63b4c6ff96f921fdc2642a",
+    "notice": "explicit GPL-2.0-only header; compatibility unresolved"
+  },
+  {
+    "path": "source/nn/os/os_mutex_api.hpp",
+    "sha256": "2f96ea270acc2c6fa488cfda1238c803502d1f4c1275cd82d3125f2bc4bfc535",
+    "notice": "explicit GPL-2.0-only header; compatibility unresolved"
+  },
+  {
+    "path": "source/nn/os/os_mutex_common.hpp",
+    "sha256": "37880ac68221d954efdef8da23709ebca8d20ef8b3435eebeaf3b6f4965e2c0d",
+    "notice": "explicit GPL-2.0-only header; compatibility unresolved"
+  },
+  {
+    "path": "source/nn/os/os_mutex_type.hpp",
+    "sha256": "66d0899346a2ace28e58b389840c37c23dc1cd7c29710066304adea67b29ac78",
+    "notice": "explicit GPL-2.0-only header; compatibility unresolved"
+  },
+  {
+    "path": "source/nn/os/os_native_handle.hpp",
+    "sha256": "4162ad4df2ea816cc76c4e2a33420a239cdb790259b89d9a534c30d85e54af6f",
+    "notice": "explicit GPL-2.0-only header; compatibility unresolved"
+  },
+  {
+    "path": "source/nn/os/os_native_handle_api.hpp",
+    "sha256": "cc0895104b0c903668ab3d1600df713556b3d1489f41cb2e3090e3eea3d884a6",
+    "notice": "explicit GPL-2.0-only header; compatibility unresolved"
+  },
+  {
+    "path": "source/nn/os/os_native_handle_types.hpp",
+    "sha256": "68c81c6903c7a6a12d5bd9a027abe59a55c669c2f686c15bfd392747c70c9368",
+    "notice": "explicit GPL-2.0-only header; compatibility unresolved"
+  },
+  {
+    "path": "source/nn/os/os_semaphore_type.hpp",
+    "sha256": "cd3aa41a08464224098595c8170eb58b176241d972681fd0eb22138ab25b067f",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/nn/os/os_system_event.hpp",
+    "sha256": "798b843b967e287242cf219bd7204ae9827dd0c537bd9c0e6233badaf095762b",
+    "notice": "explicit GPL-2.0-only header; compatibility unresolved"
+  },
+  {
+    "path": "source/nn/os/os_system_event_api.hpp",
+    "sha256": "3b8694f6d0d1165d5725e82856a48f5e617b08619b4eac9b56c1da18835a3abc",
+    "notice": "explicit GPL-2.0-only header; compatibility unresolved"
+  },
+  {
+    "path": "source/nn/os/os_system_event_types.hpp",
+    "sha256": "79bcd2fe1117b2d1e7454f1f7c92b70682abce66ff378cb216f16f76208e4656",
+    "notice": "explicit GPL-2.0-only header; compatibility unresolved"
+  },
+  {
+    "path": "source/nn/os/os_thread_api.hpp",
+    "sha256": "970280869d65cd72c6869b5f2e9fdf315dc1bc831e66f58c9284a7b5889338c5",
+    "notice": "explicit GPL-2.0-only header; compatibility unresolved"
+  },
+  {
+    "path": "source/nn/os/os_thread_common.hpp",
+    "sha256": "fcb8a1ce18c4e2a1c26f22f4d68c94d3d485b311fb70184a93ef97b0a83234b6",
+    "notice": "explicit GPL-2.0-only header; compatibility unresolved"
+  },
+  {
+    "path": "source/nn/os/os_thread_local_storage.hpp",
+    "sha256": "16ded704fb732076f86eb1663817139cdccdae7d3552133088005c9ca8b6f4c2",
+    "notice": "explicit GPL-2.0-only header; compatibility unresolved"
+  },
+  {
+    "path": "source/nn/os/os_thread_local_storage_api.hpp",
+    "sha256": "28e79ce6a77afb55e7c0ff6d822bf73b26b66472cf31927d93f6e35816027885",
+    "notice": "explicit GPL-2.0-only header; compatibility unresolved"
+  },
+  {
+    "path": "source/nn/os/os_thread_local_storage_common.hpp",
+    "sha256": "a327bc3cb528da95e29539c1761c4e6ac8a606bdea5f9acad5b05255bd40518b",
+    "notice": "explicit GPL-2.0-only header; compatibility unresolved"
+  },
+  {
+    "path": "source/nn/os/os_thread_type.hpp",
+    "sha256": "64a2a402f1a6b58f2f6e0ac4156ac0d14a6ab3edb4ae88a4328df84b4fa647f5",
+    "notice": "explicit GPL-2.0-only header; compatibility unresolved"
+  },
+  {
+    "path": "source/nn/os/os_tick.hpp",
+    "sha256": "d5566d9499c314dafa536facfad04e10cb874dd2b119d994839ff57de509d34f",
+    "notice": "explicit GPL-2.0-only header; compatibility unresolved"
+  },
+  {
+    "path": "source/nn/os/os_types.hpp",
+    "sha256": "5d876a847ca67c43fb89a7a04855d926e5326498e2397a9b86e6347b370e6911",
+    "notice": "explicit GPL-2.0-only header; compatibility unresolved"
+  },
+  {
+    "path": "source/nn/os.hpp",
+    "sha256": "ac1e837edc5258af163ab300100d8eed59e190bfc19a19a70cbb39335fc94de1",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/nn/svc/svc_common.hpp",
+    "sha256": "9ca4cd980e97fdc242a16489c044dfca29100b11525ddf8a515b6c911fca6d5b",
+    "notice": "explicit GPL-2.0-only header; compatibility unresolved"
+  },
+  {
+    "path": "source/nn/svc.hpp",
+    "sha256": "9498125434979d92da4186aaae58f2c4c233912880410f77a5a223eb04c91c7f",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/nn/time/time_timespan.hpp",
+    "sha256": "1a804a88ea5aa2ecd1f52f4233c92ef1a7c25c1d6cba19beb4d3ed80c5e390f5",
+    "notice": "explicit GPL-2.0-only header; compatibility unresolved"
+  },
+  {
+    "path": "source/nn/time.hpp",
+    "sha256": "b2f9e48bd9f62a38f32f0aa89b0bbf165dedc33f6b2ada3fd67c3a5884a5ca70",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/nn/util/util_aligned_storage.hpp",
+    "sha256": "96c70d411674562e49e6357e37be3f6afccfc4ff741d621327de56ec3dfbd1e4",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/nn/util/util_typed_storage.hpp",
+    "sha256": "6b8cd7766f8d1bc026ea59a8a4ec7886295fdec601f7d778a5a24d417c8c264c",
+    "notice": "explicit GPL-2.0-only header; compatibility unresolved"
+  },
+  {
+    "path": "source/nn.hpp",
+    "sha256": "b2a7f31ef13a74af3873fdabd967d3dcd7c7eebb215e9bae29b275f0d971430b",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/program/loggers.hpp",
+    "sha256": "20d3f9e6fb36522280acbc92c1efb9c5cdeca980e52f02fdfbc533669c6ff4c6",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/program/offsets.hpp",
+    "sha256": "631bb4092990503e0f0bb9fe88974668c3b9323d7256c54b52391cf15054ee6f",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/program/setting.hpp",
+    "sha256": "68f5e916cacbab004f7b2c20ca1aed3023870427375dfa2d7add562aec85018d",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/program/version.hpp",
+    "sha256": "cd96c3ed7759d1a61b4cade30871f313278513e26216480a1be33e8a80c99fd7",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/rtld/LICENSE.txt",
+    "sha256": "eb1c73d4c766c20a23b511730beaf2ba9fde866894ff0fbbd3840806584a806f",
+    "notice": "ISC per source/rtld/LICENSE.txt"
+  },
+  {
+    "path": "source/rtld/ModuleHeader.hpp",
+    "sha256": "ae5101ef1bd0f28ec38fe6b2797782e61051f11ec47991e2e4764c7a543594a6",
+    "notice": "ISC per source/rtld/LICENSE.txt"
+  },
+  {
+    "path": "source/rtld/ModuleList.hpp",
+    "sha256": "c439f10fd89da1f8cf5c238578546ccca20e33d664343e25e57c70045d8d850d",
+    "notice": "ISC per source/rtld/LICENSE.txt"
+  },
+  {
+    "path": "source/rtld/ModuleObject.cpp",
+    "sha256": "8dd070b2c5f1244fd9e60b9069fff666046ec214f4692138ad2747b7efe5ac7c",
+    "notice": "ISC per source/rtld/LICENSE.txt"
+  },
+  {
+    "path": "source/rtld/ModuleObject.hpp",
+    "sha256": "06eb6dd95cfb1ca254443b8be5f4ac081415bbdec54f9ce37016283e5f0da90c",
+    "notice": "ISC per source/rtld/LICENSE.txt"
+  },
+  {
+    "path": "source/rtld/dl_trampoline.s",
+    "sha256": "79796061e914da5d004e2ce66102f084f66b7eafc7e7d8c2fb7513c44e349de7",
+    "notice": "ISC per source/rtld/LICENSE.txt"
+  },
+  {
+    "path": "source/rtld/ld.cpp",
+    "sha256": "7054dc30dcb82925f11ecddece26910bff4819871c0c15a6c69f9e9e1457ff9a",
+    "notice": "ISC per source/rtld/LICENSE.txt"
+  },
+  {
+    "path": "source/rtld/relocation.cpp",
+    "sha256": "ffaef9c9aaefe4ae5192fcc112ade39782cfb3738846733b1eaf5f87aa97591c",
+    "notice": "ISC per source/rtld/LICENSE.txt"
+  },
+  {
+    "path": "source/rtld/utils.cpp",
+    "sha256": "4b8645d3a46e67d720c8adde088f35bb35a34f1c54696cd420fbd01bfcf34bd6",
+    "notice": "ISC per source/rtld/LICENSE.txt"
+  },
+  {
+    "path": "source/rtld/utils.hpp",
+    "sha256": "6cc445ec237bf7883444c3f92dee0bab8117f1fec27f170926c9c6eec24c04ed",
+    "notice": "ISC per source/rtld/LICENSE.txt"
+  },
+  {
+    "path": "source/rtld.hpp",
+    "sha256": "e48558fe9c4ea63a7a7426864e8083e1a93528e2deb1bd1f3e461da1e07837c7",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/types.h",
+    "sha256": "416dc823b4dea96dc2d54b797413c6b7075422eae5890552b6eadc6cb4e44e4f",
+    "notice": "preserve upstream/per-file terms; see original notices"
+  },
+  {
+    "path": "source/wiixlaunch/LICENSE",
+    "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+    "notice": "GPL-3.0 per upstream THIRD_PARTY.txt"
+  },
+  {
+    "path": "source/wiixlaunch/cemu/cemu_time.asm",
+    "sha256": "85ffbc04e66ca387eb7da2c3504eb3d187103eee5c5817a4e25b0d23656568d6",
+    "notice": "GPL-3.0 per upstream THIRD_PARTY.txt"
+  },
+  {
+    "path": "source/wiixlaunch/main.cpp",
+    "sha256": "481f7c66df0e7ed72a0336cb671a8506843a7c805a0199f1eac8f26a5603b133",
+    "notice": "GPL-3.0 per upstream THIRD_PARTY.txt"
+  },
+  {
+    "path": "source/wiixlaunch/totk_emotes.cpp",
+    "sha256": "d6ba393bdc9a84fc5ab051e61182b27885a1d9fedab08bc9c1d73a3d8427ba89",
+    "notice": "GPL-3.0 per upstream THIRD_PARTY.txt"
+  },
+  {
+    "path": "source/wiixlaunch/wiiu_plugin.cpp",
+    "sha256": "267a9c31e32dd082c2566585be49cf2c2e76b023dd0e035e425abc533edde95e",
+    "notice": "GPL-3.0 per upstream THIRD_PARTY.txt"
+  }
+]
